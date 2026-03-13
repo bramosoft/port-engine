@@ -1,18 +1,18 @@
-# port-engine
+# Port Engine
 
-## Overview
-A project focused on creating a portable engine for applications.
+A portable engine project for cross-platform applications.
 
 ## Features
-- Cross-platform support
-- Modular design
-
-## Technologies
-- C++
+- Support for multiple platforms
+- Examples of usage
 
 ## Usage
-Follow the setup instructions in the documentation to get started.
+Clone the repository and explore the provided examples.
 
 ## Future Plans
-- Enhance modularity
-- Add testing framework
+- Add more platform support
+- Enhance documentation
+
+## Technologies
+- Python
+
